@@ -5,7 +5,7 @@ __Análisis Exploratorio del Dataset de abandondo empleados y realizacion de un 
 
 El objetivo principal del proyecto es reducir la fuga de empleados en la empresa a través de un enfoque basado en datos y Machine Learning. 
 
-En este repositorio encontraras todos los archivos con los que se trabajo en una carpeta aparte llamada __limpieza de datos__ encontraras un archivo llamado __limpieza_de_datos_eda__ el cual contiene un .ipynb con el codigo comentado de solo la liempieza de datos y el archivo completo con la integracion de Maching Learning esta en el main llamado __Fuga_Empleados_ML__ igualmente todo el archivo esta comentado para su estudio a detalle.
+En este repositorio encontraras todos los archivos con los que se trabajo en una carpeta aparte llamada __limpieza de datos__ encontraras un archivo llamado __limpieza_de_datos_eda__ el cual contiene un .ipynb con el codigo comentado de solo la limpieza de datos y el archivo completo con la integracion de Maching Learning esta en el main llamado __Fuga_Empleados_ML__ igualmente todo el archivo esta comentado para su estudio a detalle.
 
 te dejo el enlace al dashboard interactivo realizado en Tableau: <br>
 
