@@ -44,26 +44,40 @@ Sigue estos pasos para preparar el entorno y comenzar con el análisis:
    pip install "name"
 
 ## Descripción
-Descripción del Proyecto:
+Objetivos del proyecto
+Como te ha explicado el director de Data Science, el gran objetivo del proyecto en el que vas a trabajar es reducir la fuga de empleados de la empresa.
 
-El objetivo principal del proyecto es reducir la fuga de empleados en la empresa a través de un enfoque basado en datos y Machine Learning. Este trabajo se ha dividido en tres componentes clave: Business Analytics, Machine Learning y Productivización.
+Para ello, durante este proyecto trabajaremos en 3 grandes cosas:
 
-Business Analytics:
+Entender y cuantificar el problema desde el punto de vista de negocio.
+Desarrollar un sistema automatizado de Machine Learning que identifique a los empleados que están en mayor riesgo de fuga.
+Comunicar los resultados de forma exitosa a la dirección.
+Para este proyecto realizaremos 3 componentes clave para el desarrollo del mismo:
 
-He analizado la calidad de los datos y corregido valores nulos para garantizar un análisis preciso.
-Realicé un análisis exploratorio de datos (EDA) sobre las variables disponibles, lo que me permitió identificar patrones y tendencias clave.
-Utilicé un framework estructurado para cuantificar el problema, evaluar su impacto económico y proponer escenarios de ahorro.
-Machine Learning:
+Business Analytics
 
-Entrené un modelo de Machine Learning utilizando un árbol de decisión, aprendiendo a interpretar tanto el modelo como sus predicciones.
-Dividí los datos en sets de entrenamiento y prueba para asegurar un modelo robusto y fiable.
-Evalué el rendimiento del modelo mediante métricas clave y utilicé el modelo para realizar predicciones sobre empleados en riesgo de abandonar la empresa.
-Productivización:
+Hemos visto lo que es la calidad de datos y por qué es tan importante.
+Hemos hecho un análisis de nulos y corregido los errores.
+Hemos realizado análisis exploratorio sobre todas nuestras variables.
+Hemos aprendido un par de funciones para hacer EDA que nos permitirán analizar de un plumazo cientos de variables.
+Hemos interiorizado un framework súper útil para hacer Business Analytics y presentarlos:
+Paso 1: Cuantificación del problema.
+Paso 2: Impacto económico.
+Paso 3: Escenarios de ahorro.
+Machine Learning
 
-Creé un dashboard interactivo en Tableau que permite visualizar los resultados del análisis y del modelo predictivo de manera efectiva.
-Exploro diferentes herramientas de visualización como Tableau y Power BI para presentar los resultados a la dirección de la empresa de forma clara y comprensible.
+He entendido qué es esto de hacer un modelo y para qué sirve.
+Hemos visto las diferencias entre las fases de entrenamiento y puesta en producción.
+Hemos comprendido la necesidad de dividir los datos en train y test.
+Hemos conocido cómo funciona y cómo se interpreta el algoritmo de árbol de decisión.
+Hemos entrenado nuestro modelo de Machine Learning.
+Gracias a esta parte del proyecto, ya sabemos la principal métrica para evaluar modelos y los valores que indican si un modelo es bueno o malo.
+Hemos visto cómo usar el modelo para hacer nuevas predicciones.
+Hemos aprendido a leer el diagrama de un árbol de decisión y conocer las variables más relevantes.
+Hemos entendido qué hacer con las predicciones y diferentes formas de explotar los resultados.
+Productivización
 
-## DASHBOARD 
+Para este punto, podemos utilizar distintas herramientas de visualización como Power BI, una de las más famosas, pero en esta ocasión lo realizamos en un dashboard en Tableau.
 
 __https://public.tableau.com/views/DasboardFugaDeEmpleados/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link__
 
